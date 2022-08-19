@@ -114,7 +114,7 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 ## Files & Description
 | S/N   |       Files          |        Description  |
 |:-----:|--------------------|:-------------------|
-| 1. |[0-bubble_sort.c](https://github.com/Dikachis/sorting_algorithms/blob/main/0-bubble_sort.c), <br> [0-O](https://github.com/Dikachis/sorting_algorithms/blob/main/0-O) | A function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm |
+| 1. |[0-bubble_sort.c](https://github.com/Dikachis/sorting_algorithms/blob/main/0-bubble_sort.c), <br> [0-O](#) | A function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm |
 |2. | [1-insertion_sort_list.c](https://github.com/Dikachis/sorting_algorithms/blob/main/1-insertion_sort_list.c), <br> [1-O](https://github.com/Dikachis/sorting_algorithms/blob/main/1-O) | A function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) algorithm |
 |3. | [2-selection_sort.c](https://github.com/Dikachis/sorting_algorithms/blob/main/2-selection_sort.c), <br> [2-O](https://github.com/Dikachis/sorting_algorithms/blob/main/2-O)| A function that sorts an array of integers in ascending order using the [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) algorithm |
 | 4. |[3-quick_sort.c](https://github.com/Dikachis/sorting_algorithms/blob/main/3-quick_sort.c), <br> [3-O](https://github.com/Dikachis/sorting_algorithms/blob/main/3-O) | A function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm |
